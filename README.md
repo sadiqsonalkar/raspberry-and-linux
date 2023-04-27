@@ -8,11 +8,18 @@
 5. Program to capture videos
 6. Raspberry
     Displaying Blinking LED Patterns With Raspberry PI. 
+    
     Using 7 Segment Display to Display Time. 
+    
     Capturing Image Using Raspberry Pi And Pi Camera. 
-    GPS Module Interfacing with Raspberry Pi 
-    RFID Module Interfacing with Raspberry Pi  
-    Setting up Wireless Access Point using Raspberry Pi 
+    
+    GPS Module Interfacing with Raspberry Pi.
+    
+    RFID Module Interfacing with Raspberry Pi.
+    
+    Setting up Wireless Access Point using Raspberry Pi.
+    
     Raspberry Pi based Oscilloscope.
+    
     Controlling Raspberry pi with whatsapp.
     
